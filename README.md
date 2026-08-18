@@ -105,8 +105,8 @@ appear when the underlying status changes:
 
 | Item | Current value | Appears in |
 | --- | --- | --- |
-| CAGE code | "In process" | `index.html`, `contact.html`, `capability-statement.html` |
-| SAM.gov registration | "In process" | `contact.html` |
+| CAGE code | 23RC4 | `index.html`, `contact.html`, `capability-statement.html` |
+| SAM.gov registration | Active | `contact.html` |
 | SDVOSB certification | "In progress" | all four pages plus `capability-statement.html`, including footers |
 
 Anything status-related that changes must be updated in
